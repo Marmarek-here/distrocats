@@ -1,0 +1,6 @@
+{
+    "name": "debian Linux",
+    "version": "1.0",
+    "author": "Marmarek",
+    "default": "debiancat.png"
+}
